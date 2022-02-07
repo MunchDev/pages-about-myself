@@ -53,8 +53,8 @@ menu:
     url:               /blog/
   - title:             Projects
     url:               /projects/
-  - title:             Résumé*
-    url:               /resume/
+  - title:             About Me
+    url:               /about-me/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -175,7 +175,7 @@ kramdown:
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-# disqus:                <username>
+disqus:                thaibinh-me
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
