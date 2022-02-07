@@ -1,0 +1,5 @@
+matchTitle: true
+matchBody: false
+caseSensitive: false
+labelMappings:
+  "[ImgBot]": bots
