@@ -1,0 +1,9 @@
+pull_request_rules:
+  - name: Automatic merge for bots on main
+    conditions:
+      - base=main
+      - label=bots
+    actions:
+      merge:
+        method: rebase
+        rebase_fallback: merge
