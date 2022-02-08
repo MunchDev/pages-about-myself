@@ -4,7 +4,7 @@
 basics:
   name: "Nguyen Thai Binh"
   label: "Programmer"
-  picture: 
+  picture:
   email: "contact@thaibinh.me"
   phone: "(+65) 9828 2987"
   website: "https://thaibinh.me"
@@ -130,7 +130,7 @@ interests:
     keywords:
       - "US/UK"
       - "World"
-  
+
 references:
   - name: "Victoria School principal, Mr Chow Weisi"
     reference: >
