@@ -2,7 +2,7 @@
 layout: grid
 title: Posts
 description: >
-  This is the `list` layout for showing blog posts, which shows just the title and groups them by year of publication.
-  Check out the `blog` layout for comparison.
+  This page groups blog posts that are published in the same year.
+  For a more practical browsing experience, please visit the blog page instead!
 grouped: true
 ---
