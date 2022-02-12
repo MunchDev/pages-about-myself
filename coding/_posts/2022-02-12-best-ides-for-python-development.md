@@ -4,6 +4,7 @@ title: Best IDEs for Python Development
 description: >
   This post explains the criteria for you to choose your most suitable IDE for Python Development,
   as well as lists some of the most popular IDEs out there.
+image: /assets/img/coding/ide-sample.png
 categories: [coding]
 tags: [ide, python]
 sitemap: false
@@ -64,7 +65,7 @@ without waiting for more than a few seconds.
     development. It comes built-in with a package manager, Python environment manager, etc. It'll
     certainly make getting a project running a tad easier.
 
-    ![Sample photo of PyCharm](../../assets/img/pycharm-sample.png)
+    ![Sample photo of PyCharm](../../../assets/img/coding/pycharm-sample.png)
 
     However, due to its extensive functionality, it can be overwhelming if you've just started
     programming in general. PyCharm comes in 2 versions: a free Community Edition and a paid
@@ -92,7 +93,7 @@ without waiting for more than a few seconds.
     all programming languages. As it's just an editor, it doesn't come with as many functionality as
     PyCharm, though most of them can be installed easily through the extension manager.
 
-    ![Sample photo of VSCode](../../assets/img/vscode-sample.png)
+    ![Sample photo of VSCode](../../../assets/img/coding/vscode-sample.png)
 
     However, Visual Studio Code has its own drawback. It's built on the Electron framework, which is
     notoriously known for its slow startup time. However, it's unnoticeable for most users. It also
