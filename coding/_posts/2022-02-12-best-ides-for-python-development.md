@@ -4,7 +4,8 @@ title: Best IDEs for Python Development
 description: >
   This post explains the criteria for you to choose your most suitable IDE for Python Development,
   as well as lists some of the most popular IDEs out there.
-tags: [coding, ide, python]
+categories: [coding]
+tags: [ide, python]
 sitemap: false
 ---
 _The title is slightly misleading, because I want to talk about code editors in general,_
