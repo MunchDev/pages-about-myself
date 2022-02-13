@@ -22,7 +22,7 @@ Most beginner tutorial will tell you to create a single `CMakeLists.txt` file in
 However, this is mostly for convenience and simplicity, for the sake of the tutorials themselves. On the other
 hand, you will most certainly find all major open-source projects that use `CMake` will use a whole sets of
 `CMakeLists.txt` and its companion config files, so much so you find it impossible to replicate this
-well-tuned build system in your own *tiny* project.
+well-tuned build system in your own _tiny_ project.
 
 Hence, in this post, I'm describing all the practices using a single `CMakeLists.txt` file, and maybe with a
 few more (optional) configuration files.
