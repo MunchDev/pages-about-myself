@@ -11,7 +11,7 @@ sitemap: false
 ---
 _The title is slightly misleading, because I want to talk about code editors in general,_
 _but you get the point._
-{:note}
+{:.note}
 
 * toc
 {:toc}
