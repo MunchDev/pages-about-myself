@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Best IDEs for Python Development
+title: "Theme 1: Central Problem of Economics (Part A)"
 description: >
   This post is a note from 'Theme 1: Central Problem of Economics (Part A)'
-image: /assets/img/coding/ide-sample.png
+image: /assets/img/alevel/econ-sample.jpg
 categories: [alevel]
 tags: [h2-econ, note]
 sitemap: false
