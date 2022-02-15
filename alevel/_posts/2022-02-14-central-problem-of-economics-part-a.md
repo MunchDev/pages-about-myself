@@ -252,14 +252,14 @@ the PPC to shift outwards.
 The PPC will undergo a parallel shift if a positive change in any of the above factors is able to
 enhance the production of both goods equally.
 
-![Example of parallel shift of PPC](../../../assets/img/alevel/econ-parallel-shift.png)
+![Example of parallel shift of PPC](../../../assets/img/alevel/econ-ppc-parallel-shift.png)
 
 * Pivoted shift
 
 The PPC will undergo a pivoted shift if a positive change in any of the above factors is able to
 enhance the production of one good more than the other.
 
-![Example of pivoted shift of PPC](../../../assets/img/alevel/econ-pivoted-shift.png)
+![Example of pivoted shift of PPC](../../../assets/img/alevel/econ-ppc-pivoted-shift.png)
 
 ### Economic Growth and the PPC
 
@@ -276,11 +276,11 @@ Moreover, on the PPC,
 * Actual economic growth represents the movement from a point _within_ the PPC to a point _on
 or closer_ to the PPC.
 
-![Example of actual economic growth](../../../assets/img/alevel/econ-ppc-aeg.png)
+![Example of actual economic growth](../../../assets/img/alevel/econ-ppc-aeg.gif)
 
 * Potential economic growth represents the _outward shift_ of the PPC.
 
-![Example of potential economic growth](../../../assets/img/alevel/econ-ppc-pec.png)
+![Example of potential economic growth](../../../assets/img/alevel/econ-ppc-peg.gif)
 
 As such, one way a country can achieve potential economic growth over time is by producing more
 capital goods. A greater amount of capital goods would enable an economy to produce larger
