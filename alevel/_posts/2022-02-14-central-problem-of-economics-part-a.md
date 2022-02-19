@@ -6,8 +6,13 @@ description: >
 image: /assets/img/alevel/econ-sample.jpg
 categories: [alevel]
 tags: [h2-econ, note]
+related_posts:
+  - alevel/_posts/2022-02-18-central-problem-of-economics-part-b.md
 sitemap: false
 ---
+
+This is the first part of a two-part series on "Theme 1: Central Problem of Economics".
+{:.note}
 
 * toc
 {:toc}
